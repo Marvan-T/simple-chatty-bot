@@ -1,2 +1,3 @@
 # simple-chatty-bot
-A simple project that represents a chatty-bot.
+A simple console that works as a chat bot.
+![](demonstration.mp4)

@@ -1,3 +1,3 @@
 # simple-chatty-bot
 A simple console that works as a chat bot.
-![](demonstration.mp4)
+![](Demo.gif)

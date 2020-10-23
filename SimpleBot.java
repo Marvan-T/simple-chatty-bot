@@ -44,7 +44,6 @@ public class SimpleBot {
 
     static void test() {
         System.out.println("Let's test your programming knowledge.");
-        // write your code here
         System.out.println("What is the difference between objects and classes?");
         System.out.println(1. + "Classes - blueprints, Objects -houses");
         System.out.println(2. + "I really don't know");
